@@ -1,0 +1,9 @@
+C:\Users\THAIMART MALL\Documents\GitHubVisualStudio\High-Low Card Game\High-Low Card Game\High-Low Card Game\bin\Debug\High-Low Card Game.exe.config
+C:\Users\THAIMART MALL\Documents\GitHubVisualStudio\High-Low Card Game\High-Low Card Game\High-Low Card Game\bin\Debug\High-Low Card Game.exe
+C:\Users\THAIMART MALL\Documents\GitHubVisualStudio\High-Low Card Game\High-Low Card Game\High-Low Card Game\bin\Debug\High-Low Card Game.pdb
+C:\Users\THAIMART MALL\Documents\GitHubVisualStudio\High-Low Card Game\High-Low Card Game\High-Low Card Game\obj\Debug\High-Low Card Game.csprojResolveAssemblyReference.cache
+C:\Users\THAIMART MALL\Documents\GitHubVisualStudio\High-Low Card Game\High-Low Card Game\High-Low Card Game\obj\Debug\High-Low Card Game.exe
+C:\Users\THAIMART MALL\Documents\GitHubVisualStudio\High-Low Card Game\High-Low Card Game\High-Low Card Game\obj\Debug\High-Low Card Game.pdb
+C:\Users\THAIMART MALL\Source\Repos\HighLowCardGame\High-Low Card Game\bin\Debug\High-Low Card Game.exe.config
+C:\Users\THAIMART MALL\Source\Repos\HighLowCardGame\High-Low Card Game\obj\Debug\High-Low Card Game.exe
+C:\Users\THAIMART MALL\Source\Repos\HighLowCardGame\High-Low Card Game\obj\Debug\High-Low Card Game.pdb
